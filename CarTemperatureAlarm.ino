@@ -2,7 +2,7 @@
 
 // DOCUMENTATION //
 
-// Creator: 
+// Authors: 
 //    James Byrnes
 //    Steven Rupert
 //    Sabrina Yuchasz
